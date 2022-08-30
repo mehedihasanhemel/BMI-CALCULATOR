@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculater</string>
+    <string name="bmi_clasification_less_then_18_5_underweight_18_5_24_9_normal_weight_25_0_29_9_overweight_30_0_34_9_class_i_obesity">BMI Clasification:- less then 18.5 underweight 18.5–24.9 normal weight 25.0–29.9 overweight 30.0–34.9 class I obesity</string>
+</resources>
